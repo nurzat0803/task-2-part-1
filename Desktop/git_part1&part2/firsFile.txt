@@ -1,11 +1,10 @@
-1 line 
-2 line
-3 line
-4 line
-5 line
+1 line was changed 
+2 line was changed
+3 line 
+4 line second changing
+5 line second changing
 6 line
 7 line
 8 line
 9 line
 10 line
-
