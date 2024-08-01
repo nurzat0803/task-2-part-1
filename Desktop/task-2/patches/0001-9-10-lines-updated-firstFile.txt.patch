@@ -1,0 +1,29 @@
+From c6b2cb8e06f739aee090d4f5374f0e8eca5f3128 Mon Sep 17 00:00:00 2001
+From: nurzat0803 <nurzat0803@gmail.com>
+Date: Wed, 31 Jul 2024 10:36:11 +0600
+Subject: [PATCH] 9-10 lines updated/firstFile.txt
+
+---
+ Desktop/task-2/firstFile.txt | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+diff --git a/Desktop/task-2/firstFile.txt b/Desktop/task-2/firstFile.txt
+index 139597f..a9e24ef 100644
+--- a/Desktop/task-2/firstFile.txt
++++ b/Desktop/task-2/firstFile.txt
+@@ -1,2 +1,11 @@
+-
++Line 1
++Line 2
++Line 3
++Line 4
++Line 5
++Line 6
++Line 7 
++Line 8 
++Modified 9
++Modified 10
+ 
+-- 
+2.33.0.windows.2
+
